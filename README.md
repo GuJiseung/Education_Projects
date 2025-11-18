@@ -8,10 +8,10 @@ This repository contains a collection of projects I completed during various cyb
 ## Project Lists
 ### [K-Shield Jr. 8th]
 1. "Naver Pay" Bug Bounty Project
-   - **Failed**
+   [-] **Failed**
 2. Cuppa CMS Vulnerability Assessment Project
-  - Acquired CVEs (CVE-2022-38295, CVE-2022-38296)
+   [-] Acquired CVEs (CVE-2022-38295, CVE-2022-38296)
 
 ### [SK Shieldus Rookies 10th]
 1. Android-based Cryptocurrency Wallet App Development & Penetration Testing Project
-   - Application security solution development and security solution bypass testing (using Frida)
+   [-] Application security solution development and security solution bypass testing (using Frida)
