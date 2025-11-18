@@ -39,7 +39,7 @@ Attemp to exploit vulnerabilities in event/coupon features to steal information 
 <br>- Enumerated subdomains using DNSdumpster.<br>
 <img width="650" height="558" alt="image" src="https://github.com/user-attachments/assets/99e7cf9e-cdab-4700-bd9b-2b9f3ad3ae17" />
 
-<br>**[-] No meaningful vulnerabilities were found.**
+**[-] No meaningful vulnerabilities were found.**
 
 ### [Vulnerability Assessment]
 \- Used BurpSuite to test for SQL Injection, SSRF, and other vulnerabilities.
