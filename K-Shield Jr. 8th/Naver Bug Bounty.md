@@ -32,11 +32,11 @@ Attemp to exploit vulnerabilities in event/coupon features to steal information 
 <br>- Used WhatWeb to extract website metadata.
 <img width="824" height="210" alt="image" src="https://github.com/user-attachments/assets/17a94386-417d-45ad-9997-74027ac0264b" />
 
-<br>- Crawled related services to inspect source code.
+<br>- Crawled related services to inspect source code.<br>
 <img width="660" height="630" alt="image" src="https://github.com/user-attachments/assets/43faba2a-0c7e-4001-a9a3-53e67bf31492" />
 <img width="824" height="567" alt="image" src="https://github.com/user-attachments/assets/eb2cc356-5db3-4c56-a766-ab960f6d63cb" />
 
-<br>- Enumerated subdomains using DNSdumpster.
+<br>- Enumerated subdomains using DNSdumpster.<br>
 <img width="650" height="558" alt="image" src="https://github.com/user-attachments/assets/99e7cf9e-cdab-4700-bd9b-2b9f3ad3ae17" />
 
 <br>**[-] No meaningful vulnerabilities were found.**
