@@ -1,4 +1,4 @@
-# Why Naver Bug Bounty?
+# ❓ Why Naver Bug Bounty?
 - This Project was initiated during the K-Shield Jr. program.
 - We wanted to evaluate our growth by attempting a real bug bounty program.
 - Bug bounties are known for high difficulty, so we aimed to test our vulnerability assessment and pentesting skills.
